@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aman Simon Tairo.
-- 👀 I’m interested in web app development
-- 🌱 I’m currently learning php and javascript
+- 👋 Hi, I’m Aman Simon Tairo.(Tairocruiz)
+- 👀 I’m interested in web app & Desktop App development.
+- 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on back-end scripting
 - 📫 How to reach me tairocruise@yahoo.com
 
